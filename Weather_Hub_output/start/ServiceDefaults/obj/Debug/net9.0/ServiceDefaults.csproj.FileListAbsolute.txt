@@ -1,0 +1,13 @@
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.deps.json
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.pdb
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.AssemblyInfo.cs
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.sourcelink.json
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\obj\Debug\net9.0\refint\ServiceDefaults.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.pdb
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\ServiceDefaults\obj\Debug\net9.0\ref\ServiceDefaults.dll
