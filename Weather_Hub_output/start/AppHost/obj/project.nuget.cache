@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "g9R7TVv+EUs=",
+  "dgSpecHash": "2ZgTxzc2hqc=",
   "success": true,
   "projectFilePath": "C:\\Users\\Bucsa\\Code\\Weather_Hub\\Weather_Hub_output\\start\\AppHost\\AppHost.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\Bucsa\\.nuget\\packages\\aspire.hosting\\9.4.1\\aspire.hosting.9.4.1.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\aspire.hosting.apphost\\9.4.1\\aspire.hosting.apphost.9.4.1.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.4.1\\aspire.hosting.orchestration.win-x64.9.4.1.nupkg.sha512",
+    "C:\\Users\\Bucsa\\.nuget\\packages\\aspire.hosting.redis\\9.4.1\\aspire.hosting.redis.9.4.1.nupkg.sha512",
+    "C:\\Users\\Bucsa\\.nuget\\packages\\aspnetcore.healthchecks.redis\\9.0.0\\aspnetcore.healthchecks.redis.9.0.0.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\aspnetcore.healthchecks.uris\\9.0.0\\aspnetcore.healthchecks.uris.9.0.0.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\fractions\\7.3.0\\fractions.7.3.0.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\google.protobuf\\3.31.1\\google.protobuf.3.31.1.nupkg.sha512",
@@ -61,8 +63,10 @@
     "C:\\Users\\Bucsa\\.nuget\\packages\\microsoft.visualstudio.validation\\17.8.8\\microsoft.visualstudio.validation.17.8.8.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\nerdbank.streams\\2.12.87\\nerdbank.streams.2.12.87.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Bucsa\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\polly.core\\8.6.2\\polly.core.8.6.2.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\semver\\3.0.0\\semver.3.0.0.nupkg.sha512",
+    "C:\\Users\\Bucsa\\.nuget\\packages\\stackexchange.redis\\2.8.41\\stackexchange.redis.2.8.41.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\streamjsonrpc\\2.22.11\\streamjsonrpc.2.22.11.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.7\\system.diagnostics.eventlog.9.0.7.nupkg.sha512",
     "C:\\Users\\Bucsa\\.nuget\\packages\\system.io.hashing\\9.0.7\\system.io.hashing.9.0.7.nupkg.sha512",
