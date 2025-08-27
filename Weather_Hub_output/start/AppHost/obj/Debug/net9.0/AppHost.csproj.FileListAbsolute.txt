@@ -130,3 +130,7 @@ C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\AppHost\obj\Debug\net9.
 C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\AppHost\obj\Debug\net9.0\AppHost.pdb
 C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\AppHost\obj\Debug\net9.0\AppHost.genruntimeconfig.cache
 C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\AppHost\obj\Debug\net9.0\ref\AppHost.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\AppHost\bin\Debug\net9.0\Aspire.Hosting.Redis.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\AppHost\bin\Debug\net9.0\HealthChecks.Redis.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\AppHost\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\AppHost\bin\Debug\net9.0\StackExchange.Redis.dll

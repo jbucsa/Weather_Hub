@@ -1,5 +1,6 @@
 var builder = DistributedApplication.CreateBuilder(args);
 
+// 'myCache is a varible name; while 'cache' is a serve name
 var myCache = builder.AddRedis("cache");
 
 var myAPI = builder.AddProject<Projects.Api>("api");
