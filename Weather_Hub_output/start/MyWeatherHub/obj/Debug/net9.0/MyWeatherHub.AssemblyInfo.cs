@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyWeatherHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da987f01cba7b9755b301265d797175913bad416")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e66923a3770960bd61e5a6685c45e2a5cb80f2eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyWeatherHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyWeatherHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
