@@ -77,3 +77,9 @@ C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\Api\bin\Debug\net9.0\Sw
 C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\Api\bin\Debug\net9.0\ServiceDefaults.dll
 C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\Api\bin\Debug\net9.0\ServiceDefaults.pdb
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\Api\bin\Debug\net9.0\Aspire.StackExchange.Redis.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\Api\bin\Debug\net9.0\Aspire.StackExchange.Redis.OutputCaching.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\Api\bin\Debug\net9.0\HealthChecks.Redis.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\Api\bin\Debug\net9.0\Microsoft.AspNetCore.OutputCaching.StackExchangeRedis.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\Api\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\Api\bin\Debug\net9.0\StackExchange.Redis.dll

@@ -88,3 +88,11 @@ C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\bin\Debug\
 C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\bin\Debug\net9.0\Polly.RateLimiting.dll
 C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\bin\Debug\net9.0\ServiceDefaults.dll
 C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\bin\Debug\net9.0\ServiceDefaults.pdb
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\obj\Debug\net9.0\MyWeatherHub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\bin\Debug\net9.0\Microsoft.AspNetCore.OutputCaching.StackExchangeRedis.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bucsa\Code\Weather_Hub\Weather_Hub_output\start\MyWeatherHub\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
