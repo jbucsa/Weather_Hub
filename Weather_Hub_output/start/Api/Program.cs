@@ -7,6 +7,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddOpenApi();
 builder.Services.AddEndpointsApiExplorer();
 
+builder.AddRedisOutputCache("cache");
 builder.AddServiceDefaults();
 
 builder.Services.AddNwsManager();

@@ -81,11 +81,12 @@ namespace Microsoft.Extensions.DependencyInjection
 
             services.AddMemoryCache();
 
-            // Add default output caching
-            services.AddOutputCache(options =>
-            {
-                options.AddBasePolicy(builder => builder.Cache());
-            });
+            // Do not need this 'cache' because it has been declared in my program.cs file.
+            // // Add default output caching
+            // services.AddOutputCache(options =>
+            // {
+            //     options.AddBasePolicy(builder => builder.Cache());
+            // });
 
             return services;
         }
