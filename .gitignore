@@ -41,5 +41,30 @@
 *.dwo
 
 # Folder
-**/obj/.
-**/bin/.
+**/Weather_Hub_output/start/ServiceDefaults/obj/.
+Weather_Hub_output/start/ServiceDefaults/obj/.
+Weather_Hub_output/start/ServiceDefaults/obj/.
+**/Weather_Hub_output/start/ServiceDefaults/bin/.
+Weather_Hub_output/start/ServiceDefaults/bin/.
+Weather_Hub_output/start/ServiceDefaults/bin/.
+
+**/Weather_Hub_output/start/MyWeatherHub/obj/.
+Weather_Hub_output/start/MyWeatherHub/obj/.
+Weather_Hub_output/start/MyWeatherHub/obj/.
+**/Weather_Hub_output/start/MyWeatherHub/bin/.
+Weather_Hub_output/start/MyWeatherHub/bin/.
+Weather_Hub_output/start/MyWeatherHub/bin/.
+
+**/Weather_Hub_output/start/AppHost/obj/.
+Weather_Hub_output/start/AppHost/obj/.
+Weather_Hub_output/start/AppHost/obj/.
+**/Weather_Hub_output/start/AppHost/bin/.
+Weather_Hub_output/start/AppHost/bin/.
+Weather_Hub_output/start/AppHost/bin/.
+
+**/Weather_Hub_output/start/Api/obj/.
+Weather_Hub_output/start/Api/obj/.
+Weather_Hub_output/start/Api/obj/.
+**/Weather_Hub_output/start/Api/bin/.
+Weather_Hub_output/start/Api/bin/.
+Weather_Hub_output/start/Api/bin/.
