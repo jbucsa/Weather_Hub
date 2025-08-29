@@ -41,5 +41,5 @@
 *.dwo
 
 # Folder
-obj/.
-bin/.
+**/obj/.
+**/bin/.
